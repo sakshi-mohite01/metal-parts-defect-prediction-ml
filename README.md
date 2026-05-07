@@ -97,16 +97,13 @@ Used boxplots to analyse how manufacturing categories such as part type and micr
 ## Visualisations
 
 ### Correlation Heatmap
-correlation heatmap.jpeg
+![Correlation Heatmap](images/correlation_heatmap.jpeg)
 
 ### Lifespan Distribution
-![Lifespan Distribution](images/lifespan_distribution.png)
+![Lifespan Distribution](images/distribution_lifespan.jpeg)
 
 ### Categorical Feature Boxplot
-![Categorical Feature Analysis](images/categorical_boxplot.png)
-
-### Model Performance Comparison
-![Model Comparison](images/model_comparison.png)
+![Categorical Features](images/categorical_features.jpeg)
 
 ---
 
