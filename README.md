@@ -128,7 +128,6 @@ Used boxplots to analyse how manufacturing categories such as part type and micr
 ```bash
 metal-parts-defect-prediction-ml/
 │
-├── data/
 ├── notebooks/
 ├── images/
 ├── README.md
